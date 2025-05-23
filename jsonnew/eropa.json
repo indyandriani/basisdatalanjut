@@ -1,0 +1,52 @@
+[
+    {
+        "No": 1,
+        "Nama": "Jerman",
+        "Ibukota": "Berlin"
+    },
+    {
+        "No": 2,
+        "Nama": "Prancis",
+        "Ibukota": "Paris"
+    },
+    {
+        "No": 3,
+        "Nama": "Italia",
+        "Ibukota": "Roma"
+    },
+    {
+        "No": 4,
+        "Nama": "Spanyol",
+        "Ibukota": "Madrid"
+    },
+    {
+        "No": 5,
+        "Nama": "Belanda",
+        "Ibukota": "Amsterdam"
+    },
+    {
+        "No": 6,
+        "Nama": "Austria",
+        "Ibukota": "Wina"
+    },
+    {
+        "No": 7,
+        "Nama": "Polandia",
+        "Ibukota": "Warsawa"
+    },
+    {
+        "No": 8,
+        "Nama": "Swedia",
+        "Ibukota": "Stockholm"
+    },
+    {
+        "No": 9,
+        "Nama": "Norwegia",
+        "Ibukota": "Oslo"
+    },
+    {
+        "No": 10,
+        "Nama": "Yunani",
+        "Ibukota": "Athena"
+    }
+]
